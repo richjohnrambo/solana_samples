@@ -1,5 +1,5 @@
 use anchor_lang::prelude::*;
-declare_id!("2VVBdyGUuaMERbCoRCkHAj6sHH349jqfLMJneyXXTW5K");
+declare_id!("2XBdVQQwZ1rR2AS5qGQarB8QXwLakd4aubEnsRvL4vvq");
 pub const ANCHOR_DISCRIMINATOR_SIZE: usize = 8;
 #[program]
 pub mod favorites {
